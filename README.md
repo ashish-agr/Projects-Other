@@ -1,1 +1,1 @@
-This project was built using Javascript and Minimax Algorithm was used to create the AI.
+These are the projects I developed while using Javascrip. I have a [seperate repository](https://github.com/ashish-agr/Projects-React) for my ReactJS projects.
