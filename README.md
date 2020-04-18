@@ -1,2 +1,1 @@
-# Projects-Other
-A compilation of all projects I create except React.js projects.
+This project was built using Javascript and Minimax Algorithm was used to create the AI.
