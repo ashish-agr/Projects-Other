@@ -1,10 +1,5 @@
-# Projects-Other
-These are the projects I developed while using Javascript. I have a [seperate repository](https://github.com/ashish-agr/Projects-React) for my ReactJS projects.
+This project was built using Javascript and CSS. It is a very simple preloader for a website. The CSS file has a few lines which actuallly unable us to fade into our main website after it has loaded.
+But in order to demonstrate the preloader, those lines have been commented out. After a few additions to the HTML and CSS we can use it to direct ourselves to the actual content.
+Thus, the Javascript in this project is not being implemented in this state of the project.
 
-# Open the projects here.
-
-1.[Music Maker](https://ashish-agr.github.io/Projects-Other/Music%20Maker/)<br>
-2.[Rock Paper Scissors](https://ashish-agr.github.io/Projects-Other/Rock%20Paper%20Scissors/)<br>
-3.[Tic-Tac-Toe Unbeatable AI](https://ashish-agr.github.io/Projects-Other/Tic-Tac-Toe%20Unbeatable%20AI/tictactoe.html)<br>
-4.[Todo App](https://ashish-agr.github.io/Projects-Other/Todo%20App/)<br>
-
+This project was inspired and taught by [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) on YouTube. 
