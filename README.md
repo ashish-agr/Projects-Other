@@ -10,3 +10,5 @@ These are the projects I developed while using Javascript. I have a [seperate re
 4. [Tic-Tac-Toe Unbeatable AI](https://ashish-agr.github.io/Projects-Other/Tic-Tac-Toe%20Unbeatable%20AI/tictactoe.html)<br>
 5. [Todo App](https://ashish-agr.github.io/Projects-Other/Todo%20App/)<br>
 
+Please refer to the README files of the projects for a few specific details about the project you are interested in.
+
