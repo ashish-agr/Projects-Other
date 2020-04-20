@@ -2,7 +2,7 @@
 
 These are the projects I developed while using Javascript. I have a [seperate repository](https://github.com/ashish-agr/Projects-React) for my React.js projects.
 
-#Open the Projects
+# Open the Projects
 
 1. [Music Maker](https://ashish-agr.github.io/Projects-Other/Music%20Maker/)<br>
 2. [Preloader Tutorial](https://ashish-agr.github.io/Projects-Other/Preloader%20Tutorial/)<br>
