@@ -1,4 +1,11 @@
-
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #e5efe6;
+  color: #c94371;
+  font-family: "Poppins", sans-serif;
+}
 .header{
 	display: flex;
 	flex-wrap: wrap;
@@ -9,6 +16,7 @@
 	font-size: 30px;
 	margin-top: 30px;
 }
+
 
 table{
 	display: flex;
@@ -35,7 +43,13 @@ td{
 	font-size: 50px;
 	cursor: pointer;
 	user-select: none;
-	color: black;
+	color: #7e8390;
+}
+
+td:hover{
+    background-color: lightgrey;
+    transition: all 1s ease;
+    opacity: 0.5;
 }
 
 table tr:first-child td{
@@ -55,54 +69,54 @@ table tr td:last-child{
 }
 
 .endgame{
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  left: 40%;
+  top: 60%;
+  justify-content: space-between;
   align-items: center;
+  text-align: center;
+  position: absolute;
+  width: 20%;
+  height: 200px;
 }
 
 .endgame-head{
-  height: 3px;
-  width: 100%;
-  margin-bottom: 60px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
 }
 
 .endgame-inner {
-  position: absolute;
-  top: 8%;
-  right: 0;
-  left: 0;
-  width: 220px;
-  padding-bottom: 60px;
-  margin: auto;
-  background-color: rgb(255, 255, 255, 0.8);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding:30px;
   align-items: center;
-}
+  text-align: center;
+  font-size: 22px;
+  line-height: 30px;
+  }
 
 button{
-  font-size: 13px;
-  margin-left: 35px; 
-  color: #8491a5;
-  width: 150px;
-  padding: 16px 0;
-  border: 0;
-  background-color: #f0f4f9;
-  cursor: pointer;
+  height: 50px;
+  margin-top: 20px;
+  font-size: 20px;
+  padding: 10px;
+  color: white;
+  background-color: #dcbc7b;
+  line-height: 30px;
 }
 
 button:hover {
-  color: #8491a5;
-  background-color: #ccd9ea;
-  transition: .3s ease-in-out;
+  background-color: #7e8390;
+  transition: all 1s ease;
 }
 
 .text{
-	color: #5876a3;
-  width: 200px;
-  line-height: 40px;
+	position: relative;
   text-align: center;
-  margin: 5px auto 10px;
+
 }
